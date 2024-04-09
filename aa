@@ -1,20 +1,20 @@
 Item Class: Quivers
 Rarity: Rare
-Phoenix Arrow
+Pain Hail
 Broadhead Arrow Quiver
 --------
 Requirements:
-Level: 60
+Level: 65
 --------
-Item Level: 80
+Item Level: 85
 --------
-9% increased Attack Speed (implicit)
+10% increased Attack Speed (implicit)
 --------
-+46 to Dexterity
-Adds 44 to 74 Fire Damage to Attacks
-+355 to Accuracy Rating
++52 to Dexterity
+Adds 43 to 75 Cold Damage to Attacks
 +32% to Critical Strike Multiplier with Bows
-+65 to maximum Life
-25% increased Damage with Bow Skills
++69 to maximum Life
++12% to Cold Resistance
+42% increased Damage with Bow Skills
 --------
-Note: ~price 25 chaos
+Note: ~price 40 chaos
